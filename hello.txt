@@ -1,14 +1,21 @@
+awal awal
+git bash here dulu
+1. git -v (untuk cek apakah git sudah terinstall)
+2. git config --global user.name "rzkyff10"
+3. git config --global user.email "rizkyfadlyfahreza@gmail.com"
+(PAKAI USERNAME DAN EMAIL YANG DIGUNAKAN PADA GIT)
 
+cara
+1. git init (buat mulai)
+2. git status (buat liat status)
+3. git add hello.txt (buat nambahin file hello ke kotak)
+4. git add . (buat nambahin file semua yang ada di folder)
+5. git status lagi untu cek apakah sudah ditambahkan
+6. git commit -m "add hello.txt" (untuk mengunci dan ketika berhasil ada tulisan add hello.txt)
+7. git status lagi apakah sudah didalam
+8. git remote add origin https://github.com/rzkyff10/belajar-git.git (untuk akses ke github pake link github)
+9. git push --set-upstream origin master (lansung ada di githubnya)
+10. git push
 
-AWAL AWAL
-- git init (buat mulai)
-- git status (buat liat status)
-- git add hello.txt (buat nambahin file hello ke kotak)
-- git add . (buat nambahin file semua yang ada di folder)
-- git status lagi untu cek apakah sudah ditambahkan
-- git commit -m "add hello.txt" (untuk mengunci dan ketika berhasil ada tulisan add hello.txt)
-- git status lagi apakah sudah didalam
-- git remote add origin https://github.com/rzkyff10/belajar-git.git (untuk akses ke github pake link github)
-- git push --set-upstream origin master (lansung ada di githubnya)
-
-kalo mau ubah isi, ubah dulu, nanti tambahin ulang ke git dengan cara diatas
+kalo mau ubah isi, ubah dulu, nanti tambahin ulang ke git dengan cara diatas.
+tapi dari cara nomor 4, 6, 10
