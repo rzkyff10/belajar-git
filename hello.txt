@@ -1,0 +1,14 @@
+
+
+AWAL AWAL
+- git init (buat mulai)
+- git status (buat liat status)
+- git add hello.txt (buat nambahin file hello ke kotak)
+- git add . (buat nambahin file semua yang ada di folder)
+- git status lagi untu cek apakah sudah ditambahkan
+- git commit -m "add hello.txt" (untuk mengunci dan ketika berhasil ada tulisan add hello.txt)
+- git status lagi apakah sudah didalam
+- git remote add origin https://github.com/rzkyff10/belajar-git.git (untuk akses ke github pake link github)
+- git push --set-upstream origin master (lansung ada di githubnya)
+
+kalo mau ubah isi, ubah dulu, nanti tambahin ulang ke git dengan cara diatas
