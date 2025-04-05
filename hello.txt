@@ -19,3 +19,5 @@ cara
 
 kalo mau ubah isi, ubah dulu, nanti tambahin ulang ke git dengan cara diatas.
 tapi dari cara nomor 4, 6, 10
+
+sekarang ubah di branch-1

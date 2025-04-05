@@ -1,0 +1,5 @@
+cara sinkronisasi yang ada dilokal dan di git yaitu dengan "git fetch"
+- git branch -a untuk melihat ada berapa branch
+
+cara pindah branch dari master ke branch-1
+"git checkout branch-1"
